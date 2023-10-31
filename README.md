@@ -72,3 +72,5 @@ To find the Skill ID for Watson Assistant:
 * By default the application will import and use the skill named watson-chatbot, but you can configure it to use another skill by setting the run-time environment variable SKILL_ID.
   
 * To view the Assistant dialog, click on the skill and choose the Dialog tab. Here's a snippet of the dialog:
+  
+![Screenshot 2023-10-23 195201](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/2e34d946-bb18-468f-b395-b3d9e9513f57)
