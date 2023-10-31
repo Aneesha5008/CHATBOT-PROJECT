@@ -32,13 +32,10 @@ architecture
   understanding.
   
 # Featured technologies
-* Node.js: An asynchronous event driven JavaScript runtime, designed to build scalable applications.
 Steps
 1.Create Watson services
 2.Customize the Watson Assistant skill
-3.Load Discovery documents
-4.Deploy the application
-5.Use the web app
+3.Use the facebbok meesanger and slack 
   
 # 1. Create Watson services
 Provision the following services:
@@ -73,4 +70,6 @@ To find the Skill ID for Watson Assistant:
   
 * To view the Assistant dialog, click on the skill and choose the Dialog tab. Here's a snippet of the dialog:
   
-![Screenshot 2023-10-23 195201](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/2e34d946-bb18-468f-b395-b3d9e9513f57)
+![Screenshot 2023-10-23 195201](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/2e34d946-bb18-468f-b395-b3d9e9513f57) 
+
+# 3. Use the facebbok meesanger and slack
