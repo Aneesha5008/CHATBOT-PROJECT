@@ -73,3 +73,8 @@ To find the Skill ID for Watson Assistant:
 ![Screenshot 2023-10-23 195201](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/2e34d946-bb18-468f-b395-b3d9e9513f57) 
 
 # 3. Use the facebbok meesanger and slack
+
+
+![Screenshot 2023-10-29 195104](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/b1513450-58e6-4e50-9f8e-0d449e571690)
+
+![Screenshot 2023-10-29 195336](https://github.com/Aneesha5008/CHATBOT-PROJECT/assets/144435424/4380035a-6948-4ce9-9608-a4aae5adfd39)
